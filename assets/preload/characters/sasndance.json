@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-196,
+				-308
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SAANS DANCE",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sasn",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-350,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 2.7
+}

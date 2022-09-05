@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				-306
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "fris lef asasino"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-75,
+				-315
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "fris daun asasino"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-148,
+				-261
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "fris rit asasino"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				-306
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "fris lef asasino"
+		},
+		{
+			"offsets": [
+				-78,
+				-238
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "fris ariba asasino"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/frisaseresino",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "fris",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-350,
+		300
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

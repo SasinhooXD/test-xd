@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-6,
+				-347
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "fris lef",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-73,
+				-403
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "fris daun",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-63,
+				-327
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "fris ap",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-117,
+				-346
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "fris rit",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-70,
+				-392
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "fris idl",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-6,
+				-337
+			],
+			"loop": false,
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "missl",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-73,
+				-357
+			],
+			"loop": false,
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "missd",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-49,
+				-327
+			],
+			"loop": false,
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "missu",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-109,
+				-348
+			],
+			"loop": false,
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "missr",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-70,
+				-152
+			],
+			"loop": false,
+			"anim": "youarethisguy",
+			"fps": 24,
+			"name": "fris youare",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-17,
+				-378
+			],
+			"loop": false,
+			"anim": "what",
+			"fps": 24,
+			"name": "fris WHAT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-130,
+				-243
+			],
+			"loop": false,
+			"anim": "attack",
+			"fps": 24,
+			"name": "fris atacar",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-81,
+				-338
+			],
+			"loop": false,
+			"anim": "okey",
+			"fps": 24,
+			"name": "fris okey",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fris",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "fris",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-350,
+		300
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

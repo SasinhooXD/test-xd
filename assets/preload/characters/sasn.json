@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-126,
+				-261
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sasn lef",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-161,
+				-267
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sasn daun",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-149,
+				-247
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sasn ariba",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-140,
+				-258
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "sasn idl",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-153,
+				-248
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sasn rit"
+		},
+		{
+			"offsets": [
+				-127,
+				-244
+			],
+			"loop": false,
+			"anim": "dialogue",
+			"fps": 24,
+			"name": "sasn longdialogue",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-53,
+				-262
+			],
+			"loop": false,
+			"anim": "dodge",
+			"fps": 24,
+			"name": "sasn dodge",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sasn",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sasn",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-200,
+		260
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

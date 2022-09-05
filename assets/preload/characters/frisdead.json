@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				147,
+				325
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "fris first death",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-72,
+				-328
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "fris loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-344
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "fris confrim",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/frisdead",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "fris",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-350,
+		300
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
