@@ -1,22 +1,32 @@
 {
 	"songs": [
-		["Satin Panties", "mom", [252, 150, 215]],
-		["High", "mom", [252, 150, 215]],
-		["Milf", "mom", [252, 150, 215]]
+		[
+			"snas",
+			"sasn",
+			[
+				60,
+				160,
+				255
+			]
+		]
 	],
-	
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": true,
+	"weekBackground": "snas",
+	"difficulties": "",
 	"weekCharacters": [
-		"mom",
-		"bf",
-		"gf"
+		"",
+		"",
+		""
 	],
-	"weekBackground": "limo",
-
-	"storyName": "MOMMY MUST MURDER",
-	"weekBefore": "week3",
-	"weekName": "Week 4",
-	"startUnlocked": true,
-
-	"hideStoryMode": false,
-	"hideFreeplay": false
+	"storyName": "under my pants",
+	"weekName": "sans week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
 }

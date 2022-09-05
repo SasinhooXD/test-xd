@@ -1,22 +1,32 @@
 {
 	"songs": [
-		["Pico", "pico", [148, 22, 83]],
-		["Philly Nice", "pico", [148, 22, 83]],
-		["Blammed", "pico", [148, 22, 83]]
+		[
+			"snas",
+			"sasn",
+			[
+				60,
+				160,
+				255
+			]
+		]
 	],
-
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": true,
+	"weekBackground": "snas",
+	"difficulties": "",
 	"weekCharacters": [
-		"pico",
-		"bf",
-		"gf"
+		"",
+		"",
+		""
 	],
-	"weekBackground": "philly",
-
-	"storyName": "PICO",
-	"weekBefore": "week2",
-	"weekName": "Week 3",
-	"startUnlocked": true,
-
-	"hideStoryMode": false,
-	"hideFreeplay": false
+	"storyName": "under my pants",
+	"weekName": "sans week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
 }
