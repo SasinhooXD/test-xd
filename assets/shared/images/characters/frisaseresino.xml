@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="frisaseresino.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fris ariba asasino 0000" x="0" y="0" width="519" height="499" pivotX="-76.15" pivotY="115.3" frameX="-1" frameY="0" frameWidth="520" frameHeight="499"/>
+	<SubTexture name="fris ariba asasino 0001" x="519" y="0" width="519" height="499" frameX="-1" frameY="0" frameWidth="520" frameHeight="499"/>
+	<SubTexture name="fris ariba asasino 0002" x="1038" y="0" width="517" height="487" frameX="0" frameY="-12" frameWidth="520" frameHeight="499"/>
+	<SubTexture name="fris ariba asasino 0003" x="1555" y="0" width="517" height="487" frameX="0" frameY="-12" frameWidth="520" frameHeight="499"/>
+	<SubTexture name="fris ariba asasino 0004" x="2072" y="0" width="517" height="483" frameX="0" frameY="-16" frameWidth="520" frameHeight="499"/>
+	<SubTexture name="fris ariba asasino 0005" x="2589" y="0" width="517" height="483" frameX="0" frameY="-16" frameWidth="520" frameHeight="499"/>
+	<SubTexture name="fris ariba asasino 0006" x="3106" y="0" width="517" height="484" frameX="0" frameY="-15" frameWidth="520" frameHeight="499"/>
+	<SubTexture name="fris ariba asasino 0007" x="0" y="499" width="517" height="484" frameX="0" frameY="-15" frameWidth="520" frameHeight="499"/>
+	<SubTexture name="fris ariba asasino 0008" x="517" y="499" width="517" height="485" frameX="0" frameY="-14" frameWidth="520" frameHeight="499"/>
+	<SubTexture name="fris ariba asasino 0009" x="1034" y="499" width="517" height="485" frameX="0" frameY="-14" frameWidth="520" frameHeight="499"/>
+	<SubTexture name="fris ariba asasino 0010" x="1551" y="499" width="517" height="485" frameX="0" frameY="-14" frameWidth="520" frameHeight="499"/>
+	<SubTexture name="fris ariba asasino 0011" x="2068" y="499" width="517" height="485" frameX="0" frameY="-14" frameWidth="520" frameHeight="499"/>
+	<SubTexture name="fris ariba asasino 0012" x="2585" y="499" width="517" height="485" frameX="0" frameY="-14" frameWidth="520" frameHeight="499"/>
+	<SubTexture name="fris ariba asasino 0013" x="3102" y="499" width="517" height="485" frameX="0" frameY="-14" frameWidth="520" frameHeight="499"/>
+	<SubTexture name="fris daun asasino0000" x="0" y="984" width="518" height="433" pivotX="-74.7" pivotY="35.65" frameX="0" frameY="-7" frameWidth="520" frameHeight="440"/>
+	<SubTexture name="fris daun asasino0001" x="518" y="984" width="518" height="433" frameX="0" frameY="-7" frameWidth="520" frameHeight="440"/>
+	<SubTexture name="fris daun asasino0002" x="1036" y="984" width="517" height="426" frameX="-2" frameY="-3" frameWidth="520" frameHeight="440"/>
+	<SubTexture name="fris daun asasino0003" x="1553" y="984" width="517" height="426" frameX="-2" frameY="-3" frameWidth="520" frameHeight="440"/>
+	<SubTexture name="fris daun asasino0004" x="2070" y="984" width="517" height="425" frameX="-3" frameY="0" frameWidth="520" frameHeight="440"/>
+	<SubTexture name="fris daun asasino0005" x="2587" y="984" width="517" height="425" frameX="-3" frameY="0" frameWidth="520" frameHeight="440"/>
+	<SubTexture name="fris daun asasino0006" x="3104" y="984" width="517" height="426" frameX="-3" frameY="0" frameWidth="520" frameHeight="440"/>
+	<SubTexture name="fris daun asasino0007" x="0" y="1417" width="517" height="426" frameX="-3" frameY="0" frameWidth="520" frameHeight="440"/>
+	<SubTexture name="fris daun asasino0008" x="517" y="1417" width="517" height="426" frameX="-2" frameY="-1" frameWidth="520" frameHeight="440"/>
+	<SubTexture name="fris daun asasino0009" x="1034" y="1417" width="517" height="426" frameX="-2" frameY="-1" frameWidth="520" frameHeight="440"/>
+	<SubTexture name="fris daun asasino0010" x="1551" y="1417" width="517" height="426" frameX="-2" frameY="-1" frameWidth="520" frameHeight="440"/>
+	<SubTexture name="fris daun asasino0011" x="2068" y="1417" width="517" height="426" frameX="-2" frameY="-1" frameWidth="520" frameHeight="440"/>
+	<SubTexture name="fris daun asasino0012" x="2585" y="1417" width="517" height="426" frameX="-2" frameY="-1" frameWidth="520" frameHeight="440"/>
+	<SubTexture name="fris daun asasino0013" x="3102" y="1417" width="517" height="426" frameX="-2" frameY="-1" frameWidth="520" frameHeight="440"/>
+	<SubTexture name="fris lef asasino0000" x="0" y="1843" width="518" height="431" pivotX="-68.65" pivotY="47.35" frameX="0" frameY="0" frameWidth="533" frameHeight="431"/>
+	<SubTexture name="fris lef asasino0001" x="518" y="1843" width="518" height="431" frameX="0" frameY="0" frameWidth="533" frameHeight="431"/>
+	<SubTexture name="fris lef asasino0002" x="1036" y="1843" width="518" height="424" frameX="-12" frameY="-7" frameWidth="533" frameHeight="431"/>
+	<SubTexture name="fris lef asasino0003" x="1554" y="1843" width="518" height="424" frameX="-12" frameY="-7" frameWidth="533" frameHeight="431"/>
+	<SubTexture name="fris lef asasino0004" x="2072" y="1843" width="517" height="423" frameX="-16" frameY="-8" frameWidth="533" frameHeight="431"/>
+	<SubTexture name="fris lef asasino0005" x="2589" y="1843" width="517" height="423" frameX="-16" frameY="-8" frameWidth="533" frameHeight="431"/>
+	<SubTexture name="fris lef asasino0006" x="3106" y="1843" width="517" height="423" frameX="-16" frameY="-8" frameWidth="533" frameHeight="431"/>
+	<SubTexture name="fris lef asasino0007" x="0" y="2274" width="517" height="423" frameX="-16" frameY="-8" frameWidth="533" frameHeight="431"/>
+	<SubTexture name="fris lef asasino0008" x="517" y="2274" width="517" height="423" frameX="-15" frameY="-8" frameWidth="533" frameHeight="431"/>
+	<SubTexture name="fris lef asasino0009" x="1034" y="2274" width="517" height="423" frameX="-15" frameY="-8" frameWidth="533" frameHeight="431"/>
+	<SubTexture name="fris lef asasino0010" x="1551" y="2274" width="517" height="423" frameX="-15" frameY="-8" frameWidth="533" frameHeight="431"/>
+	<SubTexture name="fris lef asasino0011" x="2068" y="2274" width="517" height="423" frameX="-15" frameY="-8" frameWidth="533" frameHeight="431"/>
+	<SubTexture name="fris lef asasino0012" x="2585" y="2274" width="517" height="423" frameX="-15" frameY="-8" frameWidth="533" frameHeight="431"/>
+	<SubTexture name="fris lef asasino0013" x="3102" y="2274" width="517" height="423" frameX="-15" frameY="-8" frameWidth="533" frameHeight="431"/>
+	<SubTexture name="fris rit asasino 0000" x="0" y="2697" width="538" height="476" pivotX="-141.05" pivotY="92.3" frameX="-10" frameY="0" frameWidth="548" frameHeight="476"/>
+	<SubTexture name="fris rit asasino 0001" x="538" y="2697" width="538" height="476" frameX="-10" frameY="0" frameWidth="548" frameHeight="476"/>
+	<SubTexture name="fris rit asasino 0002" x="1076" y="2697" width="531" height="472" frameX="-2" frameY="-4" frameWidth="548" frameHeight="476"/>
+	<SubTexture name="fris rit asasino 0003" x="1607" y="2697" width="531" height="472" frameX="-2" frameY="-4" frameWidth="548" frameHeight="476"/>
+	<SubTexture name="fris rit asasino 0004" x="2138" y="2697" width="528" height="471" frameX="0" frameY="-5" frameWidth="548" frameHeight="476"/>
+	<SubTexture name="fris rit asasino 0005" x="2666" y="2697" width="528" height="471" frameX="0" frameY="-5" frameWidth="548" frameHeight="476"/>
+	<SubTexture name="fris rit asasino 0006" x="3194" y="2697" width="529" height="471" frameX="0" frameY="-5" frameWidth="548" frameHeight="476"/>
+	<SubTexture name="fris rit asasino 0007" x="0" y="3173" width="529" height="471" frameX="0" frameY="-5" frameWidth="548" frameHeight="476"/>
+	<SubTexture name="fris rit asasino 0008" x="529" y="3173" width="530" height="471" frameX="0" frameY="-5" frameWidth="548" frameHeight="476"/>
+	<SubTexture name="fris rit asasino 0009" x="1059" y="3173" width="530" height="471" frameX="0" frameY="-5" frameWidth="548" frameHeight="476"/>
+	<SubTexture name="fris rit asasino 0010" x="1589" y="3173" width="530" height="471" frameX="0" frameY="-5" frameWidth="548" frameHeight="476"/>
+	<SubTexture name="fris rit asasino 0011" x="2119" y="3173" width="530" height="471" frameX="0" frameY="-5" frameWidth="548" frameHeight="476"/>
+	<SubTexture name="fris rit asasino 0012" x="2649" y="3173" width="530" height="471" frameX="0" frameY="-5" frameWidth="548" frameHeight="476"/>
+	<SubTexture name="fris rit asasino 0013" x="3179" y="3173" width="530" height="471" frameX="0" frameY="-5" frameWidth="548" frameHeight="476"/>
+</TextureAtlas>

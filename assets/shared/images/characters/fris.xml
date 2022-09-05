@@ -1,0 +1,375 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fris.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fris WHAT0000" x="0" y="0" width="535" height="351" pivotX="51.25" pivotY="23.25" frameX="0" frameY="-6" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris WHAT0001" x="535" y="0" width="528" height="357" frameX="-4" frameY="0" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris WHAT0002" x="535" y="0" width="528" height="357" frameX="-4" frameY="0" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris WHAT0003" x="1063" y="0" width="523" height="357" frameX="-7" frameY="0" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris WHAT0004" x="1063" y="0" width="523" height="357" frameX="-7" frameY="0" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris WHAT0005" x="1063" y="0" width="523" height="357" frameX="-7" frameY="0" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris WHAT0006" x="1063" y="0" width="523" height="357" frameX="-7" frameY="0" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris WHAT0007" x="1063" y="0" width="523" height="357" frameX="-7" frameY="0" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris WHAT0008" x="1063" y="0" width="523" height="357" frameX="-7" frameY="0" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris WHAT0009" x="1063" y="0" width="523" height="357" frameX="-7" frameY="0" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris WHAT0010" x="1063" y="0" width="523" height="357" frameX="-7" frameY="0" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris WHAT0011" x="1063" y="0" width="523" height="357" frameX="-7" frameY="0" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris WHAT0012" x="1063" y="0" width="523" height="357" frameX="-7" frameY="0" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris WHAT0013" x="1063" y="0" width="523" height="357" frameX="-7" frameY="0" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris WHAT0014" x="1063" y="0" width="523" height="357" frameX="-7" frameY="0" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris WHAT0015" x="1063" y="0" width="523" height="357" frameX="-7" frameY="0" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris WHAT0016" x="1063" y="0" width="523" height="357" frameX="-7" frameY="0" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris WHAT0017" x="1063" y="0" width="523" height="357" frameX="-7" frameY="0" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris WHAT0018" x="1063" y="0" width="523" height="357" frameX="-7" frameY="0" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris WHAT0019" x="1063" y="0" width="523" height="357" frameX="-7" frameY="0" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris WHAT0020" x="1063" y="0" width="523" height="357" frameX="-7" frameY="0" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris WHAT0021" x="1063" y="0" width="523" height="357" frameX="-7" frameY="0" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris WHAT0022" x="1063" y="0" width="523" height="357" frameX="-7" frameY="0" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris WHAT0023" x="1063" y="0" width="523" height="357" frameX="-7" frameY="0" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris WHAT0024" x="1063" y="0" width="523" height="357" frameX="-7" frameY="0" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris WHAT0025" x="1063" y="0" width="523" height="357" frameX="-7" frameY="0" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris WHAT0026" x="1063" y="0" width="523" height="357" frameX="-7" frameY="0" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris WHAT0027" x="1063" y="0" width="523" height="357" frameX="-7" frameY="0" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris WHAT0028" x="1063" y="0" width="523" height="357" frameX="-7" frameY="0" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris WHAT0029" x="1063" y="0" width="523" height="357" frameX="-7" frameY="0" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris WHAT0030" x="1063" y="0" width="523" height="357" frameX="-7" frameY="0" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris WHAT0031" x="1063" y="0" width="523" height="357" frameX="-7" frameY="0" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris WHAT0032" x="1063" y="0" width="523" height="357" frameX="-7" frameY="0" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris WHAT0033" x="1063" y="0" width="523" height="357" frameX="-7" frameY="0" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris WHAT0034" x="1063" y="0" width="523" height="357" frameX="-7" frameY="0" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris WHAT0035" x="1063" y="0" width="523" height="357" frameX="-7" frameY="0" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris WHAT0036" x="1063" y="0" width="523" height="357" frameX="-7" frameY="0" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris WHAT0037" x="1063" y="0" width="523" height="357" frameX="-7" frameY="0" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris WHAT0038" x="1063" y="0" width="523" height="357" frameX="-7" frameY="0" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris WHAT0039" x="1063" y="0" width="523" height="357" frameX="-7" frameY="0" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris WHAT0040" x="1063" y="0" width="523" height="357" frameX="-7" frameY="0" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris WHAT0041" x="1063" y="0" width="523" height="357" frameX="-7" frameY="0" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris WHAT0042" x="1063" y="0" width="523" height="357" frameX="-7" frameY="0" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris WHAT0043" x="1063" y="0" width="523" height="357" frameX="-7" frameY="0" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris WHAT0044" x="1063" y="0" width="523" height="357" frameX="-7" frameY="0" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris WHAT0045" x="1063" y="0" width="523" height="357" frameX="-7" frameY="0" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris WHAT0046" x="1063" y="0" width="523" height="357" frameX="-7" frameY="0" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris WHAT0047" x="1063" y="0" width="523" height="357" frameX="-7" frameY="0" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris WHAT0048" x="1063" y="0" width="523" height="357" frameX="-7" frameY="0" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris WHAT0049" x="1063" y="0" width="523" height="357" frameX="-7" frameY="0" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris WHAT0050" x="1063" y="0" width="523" height="357" frameX="-7" frameY="0" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris WHAT0051" x="1063" y="0" width="523" height="357" frameX="-7" frameY="0" frameWidth="535" frameHeight="357"/>
+	<SubTexture name="fris ap0000" x="1586" y="0" width="532" height="403" pivotX="98.2" pivotY="148.05"/>
+	<SubTexture name="fris ap0001" x="1586" y="0" width="532" height="403"/>
+	<SubTexture name="fris ap0002" x="2118" y="0" width="532" height="392" frameX="0" frameY="-11" frameWidth="532" frameHeight="403"/>
+	<SubTexture name="fris ap0003" x="2118" y="0" width="532" height="392" frameX="0" frameY="-11" frameWidth="532" frameHeight="403"/>
+	<SubTexture name="fris ap0004" x="2650" y="0" width="531" height="389" frameX="-1" frameY="-14" frameWidth="532" frameHeight="403"/>
+	<SubTexture name="fris ap0005" x="2650" y="0" width="531" height="389" frameX="-1" frameY="-14" frameWidth="532" frameHeight="403"/>
+	<SubTexture name="fris ap0006" x="3181" y="0" width="531" height="389" frameX="-1" frameY="-14" frameWidth="532" frameHeight="403"/>
+	<SubTexture name="fris ap0007" x="3181" y="0" width="531" height="389" frameX="-1" frameY="-14" frameWidth="532" frameHeight="403"/>
+	<SubTexture name="fris ap0008" x="3712" y="0" width="532" height="390" frameX="0" frameY="-13" frameWidth="532" frameHeight="403"/>
+	<SubTexture name="fris ap0009" x="3712" y="0" width="532" height="390" frameX="0" frameY="-13" frameWidth="532" frameHeight="403"/>
+	<SubTexture name="fris ap0010" x="3712" y="0" width="532" height="390" frameX="0" frameY="-13" frameWidth="532" frameHeight="403"/>
+	<SubTexture name="fris ap0011" x="3712" y="0" width="532" height="390" frameX="0" frameY="-13" frameWidth="532" frameHeight="403"/>
+	<SubTexture name="fris ap0012" x="3712" y="0" width="532" height="390" frameX="0" frameY="-13" frameWidth="532" frameHeight="403"/>
+	<SubTexture name="fris ap0013" x="3712" y="0" width="532" height="390" frameX="0" frameY="-13" frameWidth="532" frameHeight="403"/>
+	<SubTexture name="fris atacar0000" x="4244" y="0" width="547" height="485" pivotX="-115.35" pivotY="101.8" frameX="0" frameY="0" frameWidth="1720" frameHeight="485"/>
+	<SubTexture name="fris atacar0001" x="4244" y="0" width="547" height="485" frameX="0" frameY="0" frameWidth="1720" frameHeight="485"/>
+	<SubTexture name="fris atacar0002" x="4791" y="0" width="772" height="428" frameX="-5" frameY="-57" frameWidth="1720" frameHeight="485"/>
+	<SubTexture name="fris atacar0003" x="5563" y="0" width="1126" height="428" frameX="-5" frameY="-57" frameWidth="1720" frameHeight="485"/>
+	<SubTexture name="fris atacar0004" x="6689" y="0" width="1322" height="429" frameX="-3" frameY="-56" frameWidth="1720" frameHeight="485"/>
+	<SubTexture name="fris atacar0005" x="0" y="485" width="1506" height="431" frameX="-3" frameY="-54" frameWidth="1720" frameHeight="485"/>
+	<SubTexture name="fris atacar0006" x="1506" y="485" width="1594" height="444" frameX="-3" frameY="-41" frameWidth="1720" frameHeight="485"/>
+	<SubTexture name="fris atacar0007" x="3100" y="485" width="1646" height="451" frameX="-3" frameY="-34" frameWidth="1720" frameHeight="485"/>
+	<SubTexture name="fris atacar0008" x="4746" y="485" width="1663" height="464" frameX="-3" frameY="-21" frameWidth="1720" frameHeight="485"/>
+	<SubTexture name="fris atacar0009" x="6409" y="485" width="1717" height="429" frameX="-3" frameY="-56" frameWidth="1720" frameHeight="485"/>
+	<SubTexture name="fris atacar0010" x="0" y="949" width="1663" height="464" frameX="-3" frameY="-21" frameWidth="1720" frameHeight="485"/>
+	<SubTexture name="fris atacar0011" x="1663" y="949" width="1681" height="453" frameX="-3" frameY="-32" frameWidth="1720" frameHeight="485"/>
+	<SubTexture name="fris atacar0012" x="3344" y="949" width="1668" height="454" frameX="-3" frameY="-31" frameWidth="1720" frameHeight="485"/>
+	<SubTexture name="fris atacar0013" x="3344" y="949" width="1668" height="454" frameX="-3" frameY="-31" frameWidth="1720" frameHeight="485"/>
+	<SubTexture name="fris daun0000" x="5012" y="949" width="521" height="318" pivotX="3.25" pivotY="-11.55" frameX="-3" frameY="-8" frameWidth="525" frameHeight="326"/>
+	<SubTexture name="fris daun0001" x="5012" y="949" width="521" height="318" frameX="-3" frameY="-8" frameWidth="525" frameHeight="326"/>
+	<SubTexture name="fris daun0002" x="5533" y="949" width="524" height="324" frameX="-1" frameY="-2" frameWidth="525" frameHeight="326"/>
+	<SubTexture name="fris daun0003" x="5533" y="949" width="524" height="324" frameX="-1" frameY="-2" frameWidth="525" frameHeight="326"/>
+	<SubTexture name="fris daun0004" x="6057" y="949" width="525" height="326"/>
+	<SubTexture name="fris daun0005" x="6057" y="949" width="525" height="326"/>
+	<SubTexture name="fris daun0006" x="6582" y="949" width="525" height="326"/>
+	<SubTexture name="fris daun0007" x="6582" y="949" width="525" height="326"/>
+	<SubTexture name="fris daun0008" x="7107" y="949" width="524" height="325" frameX="-1" frameY="-1" frameWidth="525" frameHeight="326"/>
+	<SubTexture name="fris daun0009" x="7107" y="949" width="524" height="325" frameX="-1" frameY="-1" frameWidth="525" frameHeight="326"/>
+	<SubTexture name="fris daun0010" x="7107" y="949" width="524" height="325" frameX="-1" frameY="-1" frameWidth="525" frameHeight="326"/>
+	<SubTexture name="fris daun0011" x="7107" y="949" width="524" height="325" frameX="-1" frameY="-1" frameWidth="525" frameHeight="326"/>
+	<SubTexture name="fris daun0012" x="7107" y="949" width="524" height="325" frameX="-1" frameY="-1" frameWidth="525" frameHeight="326"/>
+	<SubTexture name="fris daun0013" x="7107" y="949" width="524" height="325" frameX="-1" frameY="-1" frameWidth="525" frameHeight="326"/>
+	<SubTexture name="fris idl0000" x="7631" y="949" width="525" height="326" pivotX="6.4" pivotY="2.5" frameX="-12" frameY="-13" frameWidth="537" frameHeight="339"/>
+	<SubTexture name="fris idl0001" x="7631" y="949" width="525" height="326" frameX="-12" frameY="-13" frameWidth="537" frameHeight="339"/>
+	<SubTexture name="fris idl0002" x="0" y="1413" width="524" height="330" frameX="-6" frameY="-9" frameWidth="537" frameHeight="339"/>
+	<SubTexture name="fris idl0003" x="0" y="1413" width="524" height="330" frameX="-6" frameY="-9" frameWidth="537" frameHeight="339"/>
+	<SubTexture name="fris idl0004" x="524" y="1413" width="529" height="331" frameX="-2" frameY="-8" frameWidth="537" frameHeight="339"/>
+	<SubTexture name="fris idl0005" x="524" y="1413" width="529" height="331" frameX="-2" frameY="-8" frameWidth="537" frameHeight="339"/>
+	<SubTexture name="fris idl0006" x="1053" y="1413" width="530" height="336" frameX="-1" frameY="-3" frameWidth="537" frameHeight="339"/>
+	<SubTexture name="fris idl0007" x="1053" y="1413" width="530" height="336" frameX="-1" frameY="-3" frameWidth="537" frameHeight="339"/>
+	<SubTexture name="fris idl0008" x="1583" y="1413" width="529" height="337" frameX="-1" frameY="-2" frameWidth="537" frameHeight="339"/>
+	<SubTexture name="fris idl0009" x="1583" y="1413" width="529" height="337" frameX="-1" frameY="-2" frameWidth="537" frameHeight="339"/>
+	<SubTexture name="fris idl0010" x="2112" y="1413" width="530" height="339" frameX="0" frameY="0" frameWidth="537" frameHeight="339"/>
+	<SubTexture name="fris idl0011" x="2112" y="1413" width="530" height="339" frameX="0" frameY="0" frameWidth="537" frameHeight="339"/>
+	<SubTexture name="fris idl0012" x="2112" y="1413" width="530" height="339" frameX="0" frameY="0" frameWidth="537" frameHeight="339"/>
+	<SubTexture name="fris idl0013" x="2112" y="1413" width="530" height="339" frameX="0" frameY="0" frameWidth="537" frameHeight="339"/>
+	<SubTexture name="fris lef0000" x="2642" y="1413" width="532" height="383" pivotX="0" pivotY="0" frameX="0" frameY="0" frameWidth="542" frameHeight="383"/>
+	<SubTexture name="fris lef0001" x="2642" y="1413" width="532" height="383" frameX="0" frameY="0" frameWidth="542" frameHeight="383"/>
+	<SubTexture name="fris lef0002" x="3174" y="1413" width="533" height="378" frameX="-7" frameY="-5" frameWidth="542" frameHeight="383"/>
+	<SubTexture name="fris lef0003" x="3174" y="1413" width="533" height="378" frameX="-7" frameY="-5" frameWidth="542" frameHeight="383"/>
+	<SubTexture name="fris lef0004" x="3707" y="1413" width="532" height="376" frameX="-10" frameY="-7" frameWidth="542" frameHeight="383"/>
+	<SubTexture name="fris lef0005" x="3707" y="1413" width="532" height="376" frameX="-10" frameY="-7" frameWidth="542" frameHeight="383"/>
+	<SubTexture name="fris lef0006" x="4239" y="1413" width="532" height="376" frameX="-10" frameY="-7" frameWidth="542" frameHeight="383"/>
+	<SubTexture name="fris lef0007" x="4239" y="1413" width="532" height="376" frameX="-10" frameY="-7" frameWidth="542" frameHeight="383"/>
+	<SubTexture name="fris lef0008" x="4771" y="1413" width="532" height="377" frameX="-9" frameY="-6" frameWidth="542" frameHeight="383"/>
+	<SubTexture name="fris lef0009" x="4771" y="1413" width="532" height="377" frameX="-9" frameY="-6" frameWidth="542" frameHeight="383"/>
+	<SubTexture name="fris lef0010" x="4771" y="1413" width="532" height="377" frameX="-9" frameY="-6" frameWidth="542" frameHeight="383"/>
+	<SubTexture name="fris lef0011" x="4771" y="1413" width="532" height="377" frameX="-9" frameY="-6" frameWidth="542" frameHeight="383"/>
+	<SubTexture name="fris lef0012" x="4771" y="1413" width="532" height="377" frameX="-9" frameY="-6" frameWidth="542" frameHeight="383"/>
+	<SubTexture name="fris lef0013" x="4771" y="1413" width="532" height="377" frameX="-9" frameY="-6" frameWidth="542" frameHeight="383"/>
+	<SubTexture name="fris okey0000" x="5303" y="1413" width="531" height="384" pivotX="84.15" pivotY="140.5" frameX="-1" frameY="-8" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0001" x="5303" y="1413" width="531" height="384" frameX="-1" frameY="-8" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0002" x="5834" y="1413" width="531" height="384" frameX="-1" frameY="-8" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0003" x="5834" y="1413" width="531" height="384" frameX="-1" frameY="-8" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0004" x="5834" y="1413" width="531" height="384" frameX="-1" frameY="-8" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0005" x="5834" y="1413" width="531" height="384" frameX="-1" frameY="-8" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0006" x="5834" y="1413" width="531" height="384" frameX="-1" frameY="-8" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0007" x="5834" y="1413" width="531" height="384" frameX="-1" frameY="-8" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0008" x="5834" y="1413" width="531" height="384" frameX="-1" frameY="-8" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0009" x="5834" y="1413" width="531" height="384" frameX="-1" frameY="-8" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0010" x="5834" y="1413" width="531" height="384" frameX="-1" frameY="-8" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0011" x="6365" y="1413" width="531" height="384" frameX="-1" frameY="-8" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0012" x="6365" y="1413" width="531" height="384" frameX="-1" frameY="-8" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0013" x="6365" y="1413" width="531" height="384" frameX="-1" frameY="-8" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0014" x="6365" y="1413" width="531" height="384" frameX="-1" frameY="-8" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0015" x="6365" y="1413" width="531" height="384" frameX="-1" frameY="-8" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0016" x="6365" y="1413" width="531" height="384" frameX="-1" frameY="-8" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0017" x="6365" y="1413" width="531" height="384" frameX="-1" frameY="-8" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0018" x="6365" y="1413" width="531" height="384" frameX="-1" frameY="-8" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0019" x="6365" y="1413" width="531" height="384" frameX="-1" frameY="-8" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0020" x="6365" y="1413" width="531" height="384" frameX="-1" frameY="-8" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0021" x="6365" y="1413" width="531" height="384" frameX="-1" frameY="-8" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0022" x="6365" y="1413" width="531" height="384" frameX="-1" frameY="-8" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0023" x="6365" y="1413" width="531" height="384" frameX="-1" frameY="-8" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0024" x="6365" y="1413" width="531" height="384" frameX="-1" frameY="-8" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0025" x="6365" y="1413" width="531" height="384" frameX="-1" frameY="-8" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0026" x="6365" y="1413" width="531" height="384" frameX="-1" frameY="-8" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0027" x="6365" y="1413" width="531" height="384" frameX="-1" frameY="-8" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0028" x="6365" y="1413" width="531" height="384" frameX="-1" frameY="-8" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0029" x="6365" y="1413" width="531" height="384" frameX="-1" frameY="-8" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0030" x="6365" y="1413" width="531" height="384" frameX="-1" frameY="-8" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0031" x="6365" y="1413" width="531" height="384" frameX="-1" frameY="-8" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0032" x="6365" y="1413" width="531" height="384" frameX="-1" frameY="-8" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0033" x="6365" y="1413" width="531" height="384" frameX="-1" frameY="-8" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0034" x="6365" y="1413" width="531" height="384" frameX="-1" frameY="-8" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0035" x="6365" y="1413" width="531" height="384" frameX="-1" frameY="-8" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0036" x="6365" y="1413" width="531" height="384" frameX="-1" frameY="-8" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0037" x="6365" y="1413" width="531" height="384" frameX="-1" frameY="-8" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0038" x="6365" y="1413" width="531" height="384" frameX="-1" frameY="-8" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0039" x="6365" y="1413" width="531" height="384" frameX="-1" frameY="-8" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0040" x="6365" y="1413" width="531" height="384" frameX="-1" frameY="-8" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0041" x="6365" y="1413" width="531" height="384" frameX="-1" frameY="-8" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0042" x="6365" y="1413" width="531" height="384" frameX="-1" frameY="-8" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0043" x="6896" y="1413" width="369" height="267" frameX="-82" frameY="-66" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0044" x="6896" y="1413" width="369" height="267" frameX="-82" frameY="-66" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0045" x="6896" y="1413" width="369" height="267" frameX="-82" frameY="-66" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0046" x="6896" y="1413" width="369" height="267" frameX="-82" frameY="-66" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0047" x="6896" y="1413" width="369" height="267" frameX="-82" frameY="-66" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0048" x="7265" y="1413" width="369" height="267" frameX="-82" frameY="-66" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0049" x="7265" y="1413" width="369" height="267" frameX="-82" frameY="-66" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0050" x="7265" y="1413" width="369" height="267" frameX="-82" frameY="-66" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0051" x="7265" y="1413" width="369" height="267" frameX="-82" frameY="-66" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0052" x="7265" y="1413" width="369" height="267" frameX="-82" frameY="-66" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0053" x="7265" y="1413" width="369" height="267" frameX="-82" frameY="-66" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0054" x="7265" y="1413" width="369" height="267" frameX="-82" frameY="-66" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0055" x="7634" y="1413" width="314" height="227" frameX="-109" frameY="-86" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0056" x="7634" y="1413" width="314" height="227" frameX="-109" frameY="-86" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0057" x="7634" y="1413" width="314" height="227" frameX="-109" frameY="-86" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0058" x="7634" y="1413" width="314" height="227" frameX="-109" frameY="-86" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0059" x="7634" y="1413" width="314" height="227" frameX="-109" frameY="-86" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0060" x="7634" y="1413" width="314" height="227" frameX="-109" frameY="-86" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0061" x="0" y="1797" width="314" height="227" frameX="-109" frameY="-86" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0062" x="0" y="1797" width="314" height="227" frameX="-109" frameY="-86" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0063" x="0" y="1797" width="314" height="227" frameX="-109" frameY="-86" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0064" x="0" y="1797" width="314" height="227" frameX="-109" frameY="-86" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0065" x="0" y="1797" width="314" height="227" frameX="-109" frameY="-86" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0066" x="0" y="1797" width="314" height="227" frameX="-109" frameY="-86" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0067" x="0" y="1797" width="314" height="227" frameX="-109" frameY="-86" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0068" x="0" y="1797" width="314" height="227" frameX="-109" frameY="-86" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0069" x="0" y="1797" width="314" height="227" frameX="-109" frameY="-86" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0070" x="0" y="1797" width="314" height="227" frameX="-109" frameY="-86" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0071" x="0" y="1797" width="314" height="227" frameX="-109" frameY="-86" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0072" x="0" y="1797" width="314" height="227" frameX="-109" frameY="-86" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0073" x="0" y="1797" width="314" height="227" frameX="-109" frameY="-86" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0074" x="0" y="1797" width="314" height="227" frameX="-109" frameY="-86" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0075" x="0" y="1797" width="314" height="227" frameX="-109" frameY="-86" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0076" x="0" y="1797" width="314" height="227" frameX="-109" frameY="-86" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0077" x="0" y="1797" width="314" height="227" frameX="-109" frameY="-86" frameWidth="532" frameHeight="392"/>
+	<SubTexture name="fris okey0078" x="314" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0079" x="314" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0080" x="314" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0081" x="314" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0082" x="314" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0083" x="314" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0084" x="314" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0085" x="846" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0086" x="846" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0087" x="846" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0088" x="846" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0089" x="846" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0090" x="846" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0091" x="846" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0092" x="846" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0093" x="846" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0094" x="846" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0095" x="846" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0096" x="846" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0097" x="846" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0098" x="846" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0099" x="846" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0100" x="846" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0101" x="846" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0102" x="846" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0103" x="846" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0104" x="846" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0105" x="846" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0106" x="846" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0107" x="846" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0108" x="846" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0109" x="846" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0110" x="846" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0111" x="846" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0112" x="846" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0113" x="846" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0114" x="846" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0115" x="846" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0116" x="846" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0117" x="846" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0118" x="846" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0119" x="846" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0120" x="846" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0121" x="846" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0122" x="846" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0123" x="846" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0124" x="846" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0125" x="846" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0126" x="846" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0127" x="846" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0128" x="846" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0129" x="846" y="1797" width="532" height="392"/>
+	<SubTexture name="fris okey0130" x="846" y="1797" width="532" height="392"/>
+	<SubTexture name="fris rit0000" x="1378" y="1797" width="531" height="384" pivotX="49.3" pivotY="132.05" frameX="-11" frameY="0" frameWidth="542" frameHeight="384"/>
+	<SubTexture name="fris rit0001" x="1378" y="1797" width="531" height="384" frameX="-11" frameY="0" frameWidth="542" frameHeight="384"/>
+	<SubTexture name="fris rit0002" x="1909" y="1797" width="531" height="375" frameX="-3" frameY="-9" frameWidth="542" frameHeight="384"/>
+	<SubTexture name="fris rit0003" x="1909" y="1797" width="531" height="375" frameX="-3" frameY="-9" frameWidth="542" frameHeight="384"/>
+	<SubTexture name="fris rit0004" x="2440" y="1797" width="531" height="372" frameX="0" frameY="-12" frameWidth="542" frameHeight="384"/>
+	<SubTexture name="fris rit0005" x="2440" y="1797" width="531" height="372" frameX="0" frameY="-12" frameWidth="542" frameHeight="384"/>
+	<SubTexture name="fris rit0006" x="2971" y="1797" width="530" height="372" frameX="0" frameY="-12" frameWidth="542" frameHeight="384"/>
+	<SubTexture name="fris rit0007" x="2971" y="1797" width="530" height="372" frameX="0" frameY="-12" frameWidth="542" frameHeight="384"/>
+	<SubTexture name="fris rit0008" x="3501" y="1797" width="530" height="372" frameX="-1" frameY="-12" frameWidth="542" frameHeight="384"/>
+	<SubTexture name="fris rit0009" x="3501" y="1797" width="530" height="372" frameX="-1" frameY="-12" frameWidth="542" frameHeight="384"/>
+	<SubTexture name="fris rit0010" x="3501" y="1797" width="530" height="372" frameX="-1" frameY="-12" frameWidth="542" frameHeight="384"/>
+	<SubTexture name="fris rit0011" x="3501" y="1797" width="530" height="372" frameX="-1" frameY="-12" frameWidth="542" frameHeight="384"/>
+	<SubTexture name="fris rit0012" x="3501" y="1797" width="530" height="372" frameX="-1" frameY="-12" frameWidth="542" frameHeight="384"/>
+	<SubTexture name="fris rit0013" x="3501" y="1797" width="530" height="372" frameX="-1" frameY="-12" frameWidth="542" frameHeight="384"/>
+	<SubTexture name="fris youare0000" x="4031" y="1797" width="525" height="326" pivotX="6.4" pivotY="241.7" frameX="-12" frameY="-252" frameWidth="537" frameHeight="578"/>
+	<SubTexture name="fris youare0001" x="4031" y="1797" width="525" height="326" frameX="-12" frameY="-252" frameWidth="537" frameHeight="578"/>
+	<SubTexture name="fris youare0002" x="4556" y="1797" width="524" height="330" frameX="-6" frameY="-248" frameWidth="537" frameHeight="578"/>
+	<SubTexture name="fris youare0003" x="4556" y="1797" width="524" height="330" frameX="-6" frameY="-248" frameWidth="537" frameHeight="578"/>
+	<SubTexture name="fris youare0004" x="5080" y="1797" width="529" height="331" frameX="-2" frameY="-247" frameWidth="537" frameHeight="578"/>
+	<SubTexture name="fris youare0005" x="5080" y="1797" width="529" height="331" frameX="-2" frameY="-247" frameWidth="537" frameHeight="578"/>
+	<SubTexture name="fris youare0006" x="5609" y="1797" width="530" height="336" frameX="-1" frameY="-242" frameWidth="537" frameHeight="578"/>
+	<SubTexture name="fris youare0007" x="5609" y="1797" width="530" height="336" frameX="-1" frameY="-242" frameWidth="537" frameHeight="578"/>
+	<SubTexture name="fris youare0008" x="6139" y="1797" width="529" height="337" frameX="-1" frameY="-241" frameWidth="537" frameHeight="578"/>
+	<SubTexture name="fris youare0009" x="6139" y="1797" width="529" height="337" frameX="-1" frameY="-241" frameWidth="537" frameHeight="578"/>
+	<SubTexture name="fris youare0010" x="6668" y="1797" width="530" height="339" frameX="0" frameY="-239" frameWidth="537" frameHeight="578"/>
+	<SubTexture name="fris youare0011" x="6668" y="1797" width="530" height="339" frameX="0" frameY="-239" frameWidth="537" frameHeight="578"/>
+	<SubTexture name="fris youare0012" x="6668" y="1797" width="530" height="339" frameX="0" frameY="-239" frameWidth="537" frameHeight="578"/>
+	<SubTexture name="fris youare0013" x="6668" y="1797" width="530" height="339" frameX="0" frameY="-239" frameWidth="537" frameHeight="578"/>
+	<SubTexture name="fris youare0014" x="7198" y="1797" width="529" height="331" frameX="-2" frameY="-247" frameWidth="537" frameHeight="578"/>
+	<SubTexture name="fris youare0015" x="0" y="2189" width="529" height="568" frameX="-2" frameY="-10" frameWidth="537" frameHeight="578"/>
+	<SubTexture name="fris youare0016" x="529" y="2189" width="529" height="568" frameX="0" frameY="-10" frameWidth="537" frameHeight="578"/>
+	<SubTexture name="fris youare0017" x="1058" y="2189" width="529" height="568" frameX="0" frameY="-10" frameWidth="537" frameHeight="578"/>
+	<SubTexture name="fris youare0018" x="1587" y="2189" width="529" height="568" frameX="0" frameY="-10" frameWidth="537" frameHeight="578"/>
+	<SubTexture name="fris youare0019" x="2116" y="2189" width="529" height="568" frameX="0" frameY="-10" frameWidth="537" frameHeight="578"/>
+	<SubTexture name="fris youare0020" x="2645" y="2189" width="529" height="578" frameX="0" frameY="0" frameWidth="537" frameHeight="578"/>
+	<SubTexture name="fris youare0021" x="3174" y="2189" width="529" height="578" frameX="0" frameY="0" frameWidth="537" frameHeight="578"/>
+	<SubTexture name="fris youare0022" x="3703" y="2189" width="529" height="573" frameX="0" frameY="-5" frameWidth="537" frameHeight="578"/>
+	<SubTexture name="fris youare0023" x="4232" y="2189" width="529" height="573" frameX="0" frameY="-5" frameWidth="537" frameHeight="578"/>
+	<SubTexture name="fris youare0024" x="4761" y="2189" width="529" height="575" frameX="0" frameY="-3" frameWidth="537" frameHeight="578"/>
+	<SubTexture name="fris youare0025" x="5290" y="2189" width="529" height="575" frameX="0" frameY="-3" frameWidth="537" frameHeight="578"/>
+	<SubTexture name="fris youare0026" x="4761" y="2189" width="529" height="575" frameX="0" frameY="-3" frameWidth="537" frameHeight="578"/>
+	<SubTexture name="fris youare0027" x="5290" y="2189" width="529" height="575" frameX="0" frameY="-3" frameWidth="537" frameHeight="578"/>
+	<SubTexture name="fris youare0028" x="4761" y="2189" width="529" height="575" frameX="0" frameY="-3" frameWidth="537" frameHeight="578"/>
+	<SubTexture name="fris youare0029" x="5290" y="2189" width="529" height="575" frameX="0" frameY="-3" frameWidth="537" frameHeight="578"/>
+	<SubTexture name="fris youare0030" x="4761" y="2189" width="529" height="575" frameX="0" frameY="-3" frameWidth="537" frameHeight="578"/>
+	<SubTexture name="fris youare0031" x="5290" y="2189" width="529" height="575" frameX="0" frameY="-3" frameWidth="537" frameHeight="578"/>
+	<SubTexture name="fris youare0032" x="4761" y="2189" width="529" height="575" frameX="0" frameY="-3" frameWidth="537" frameHeight="578"/>
+	<SubTexture name="fris youare0033" x="5290" y="2189" width="529" height="575" frameX="0" frameY="-3" frameWidth="537" frameHeight="578"/>
+	<SubTexture name="fris youare0034" x="4761" y="2189" width="529" height="575" frameX="0" frameY="-3" frameWidth="537" frameHeight="578"/>
+	<SubTexture name="fris youare0035" x="5290" y="2189" width="529" height="575" frameX="0" frameY="-3" frameWidth="537" frameHeight="578"/>
+	<SubTexture name="fris youare0036" x="4761" y="2189" width="529" height="575" frameX="0" frameY="-3" frameWidth="537" frameHeight="578"/>
+	<SubTexture name="fris youare0037" x="5819" y="2189" width="529" height="575" frameX="0" frameY="-3" frameWidth="537" frameHeight="578"/>
+	<SubTexture name="fris youare0038" x="6348" y="2189" width="529" height="575" frameX="0" frameY="-3" frameWidth="537" frameHeight="578"/>
+	<SubTexture name="fris youare0039" x="6877" y="2189" width="529" height="575" frameX="0" frameY="-3" frameWidth="537" frameHeight="578"/>
+	<SubTexture name="fris youare0040" x="6877" y="2189" width="529" height="575" frameX="0" frameY="-3" frameWidth="537" frameHeight="578"/>
+	<SubTexture name="fris youare0041" x="7406" y="2189" width="529" height="575" frameX="-2" frameY="-3" frameWidth="537" frameHeight="578"/>
+	<SubTexture name="fris youare0042" x="7406" y="2189" width="529" height="575" frameX="-2" frameY="-3" frameWidth="537" frameHeight="578"/>
+	<SubTexture name="fris youare0043" x="0" y="2767" width="529" height="575" frameX="-1" frameY="-3" frameWidth="537" frameHeight="578"/>
+	<SubTexture name="fris youare0044" x="0" y="2767" width="529" height="575" frameX="-1" frameY="-3" frameWidth="537" frameHeight="578"/>
+	<SubTexture name="fris youare0045" x="529" y="2767" width="529" height="575" frameX="-1" frameY="-3" frameWidth="537" frameHeight="578"/>
+	<SubTexture name="fris youare0046" x="6139" y="1797" width="529" height="337" frameX="-1" frameY="-241" frameWidth="537" frameHeight="578"/>
+	<SubTexture name="missd0000" x="1058" y="2767" width="521" height="318" pivotX="-0.45" pivotY="32" frameX="0" frameY="-51" frameWidth="521" frameHeight="385"/>
+	<SubTexture name="missd0001" x="1579" y="2767" width="515" height="367" frameX="0" frameY="-9" frameWidth="521" frameHeight="385"/>
+	<SubTexture name="missd0002" x="2094" y="2767" width="504" height="385" frameX="-6" frameY="0" frameWidth="521" frameHeight="385"/>
+	<SubTexture name="missd0003" x="1579" y="2767" width="515" height="367" frameX="0" frameY="-9" frameWidth="521" frameHeight="385"/>
+	<SubTexture name="missd0004" x="2094" y="2767" width="504" height="385" frameX="-6" frameY="0" frameWidth="521" frameHeight="385"/>
+	<SubTexture name="missd0005" x="1579" y="2767" width="515" height="367" frameX="0" frameY="-9" frameWidth="521" frameHeight="385"/>
+	<SubTexture name="missd0006" x="2094" y="2767" width="504" height="385" frameX="-6" frameY="0" frameWidth="521" frameHeight="385"/>
+	<SubTexture name="missd0007" x="1579" y="2767" width="515" height="367" frameX="0" frameY="-9" frameWidth="521" frameHeight="385"/>
+	<SubTexture name="missd0008" x="2094" y="2767" width="504" height="385" frameX="-6" frameY="0" frameWidth="521" frameHeight="385"/>
+	<SubTexture name="missd0009" x="1579" y="2767" width="515" height="367" frameX="0" frameY="-9" frameWidth="521" frameHeight="385"/>
+	<SubTexture name="missd0010" x="2094" y="2767" width="504" height="385" frameX="-6" frameY="0" frameWidth="521" frameHeight="385"/>
+	<SubTexture name="missd0011" x="1579" y="2767" width="515" height="367" frameX="0" frameY="-9" frameWidth="521" frameHeight="385"/>
+	<SubTexture name="missd0012" x="2094" y="2767" width="504" height="385" frameX="-6" frameY="0" frameWidth="521" frameHeight="385"/>
+	<SubTexture name="missd0013" x="1579" y="2767" width="515" height="367" frameX="0" frameY="-9" frameWidth="521" frameHeight="385"/>
+	<SubTexture name="missl0000" x="2642" y="1413" width="532" height="383" pivotX="0" pivotY="0" frameX="-23" frameY="0" frameWidth="542" frameHeight="383"/>
+	<SubTexture name="missl0001" x="2598" y="2767" width="595" height="338" frameX="0" frameY="-56" frameWidth="595" frameHeight="399"/>
+	<SubTexture name="missl0002" x="3193" y="2767" width="590" height="348" frameX="0" frameY="-51" frameWidth="595" frameHeight="399"/>
+	<SubTexture name="missl0003" x="2598" y="2767" width="595" height="338" frameX="0" frameY="-56" frameWidth="595" frameHeight="399"/>
+	<SubTexture name="missl0004" x="3193" y="2767" width="590" height="348" frameX="0" frameY="-51" frameWidth="595" frameHeight="399"/>
+	<SubTexture name="missl0005" x="2598" y="2767" width="595" height="338" frameX="0" frameY="-56" frameWidth="595" frameHeight="399"/>
+	<SubTexture name="missl0006" x="3193" y="2767" width="590" height="348" frameX="0" frameY="-51" frameWidth="595" frameHeight="399"/>
+	<SubTexture name="missl0007" x="2598" y="2767" width="595" height="338" frameX="0" frameY="-56" frameWidth="595" frameHeight="399"/>
+	<SubTexture name="missl0008" x="3193" y="2767" width="590" height="348" frameX="0" frameY="-51" frameWidth="595" frameHeight="399"/>
+	<SubTexture name="missl0009" x="2598" y="2767" width="595" height="338" frameX="0" frameY="-56" frameWidth="595" frameHeight="399"/>
+	<SubTexture name="missl0010" x="3193" y="2767" width="590" height="348" frameX="0" frameY="-51" frameWidth="595" frameHeight="399"/>
+	<SubTexture name="missl0011" x="2598" y="2767" width="595" height="338" frameX="0" frameY="-56" frameWidth="595" frameHeight="399"/>
+	<SubTexture name="missl0012" x="3193" y="2767" width="590" height="348" frameX="0" frameY="-51" frameWidth="595" frameHeight="399"/>
+	<SubTexture name="missl0013" x="2598" y="2767" width="595" height="338" frameX="0" frameY="-56" frameWidth="595" frameHeight="399"/>
+	<SubTexture name="missr0000" x="3783" y="2767" width="531" height="384" pivotX="50.1" pivotY="132.05" frameX="-12" frameY="0" frameWidth="543" frameHeight="405"/>
+	<SubTexture name="missr0001" x="4314" y="2767" width="493" height="359" frameX="0" frameY="-41" frameWidth="543" frameHeight="405"/>
+	<SubTexture name="missr0002" x="4807" y="2767" width="488" height="368" frameX="-3" frameY="-37" frameWidth="543" frameHeight="405"/>
+	<SubTexture name="missr0003" x="4314" y="2767" width="493" height="359" frameX="0" frameY="-41" frameWidth="543" frameHeight="405"/>
+	<SubTexture name="missr0004" x="4807" y="2767" width="488" height="368" frameX="-3" frameY="-37" frameWidth="543" frameHeight="405"/>
+	<SubTexture name="missr0005" x="4314" y="2767" width="493" height="359" frameX="0" frameY="-41" frameWidth="543" frameHeight="405"/>
+	<SubTexture name="missr0006" x="4807" y="2767" width="488" height="368" frameX="-3" frameY="-37" frameWidth="543" frameHeight="405"/>
+	<SubTexture name="missr0007" x="4314" y="2767" width="493" height="359" frameX="0" frameY="-41" frameWidth="543" frameHeight="405"/>
+	<SubTexture name="missr0008" x="4807" y="2767" width="488" height="368" frameX="-3" frameY="-37" frameWidth="543" frameHeight="405"/>
+	<SubTexture name="missr0009" x="4314" y="2767" width="493" height="359" frameX="0" frameY="-41" frameWidth="543" frameHeight="405"/>
+	<SubTexture name="missr0010" x="4807" y="2767" width="488" height="368" frameX="-3" frameY="-37" frameWidth="543" frameHeight="405"/>
+	<SubTexture name="missr0011" x="4314" y="2767" width="493" height="359" frameX="0" frameY="-41" frameWidth="543" frameHeight="405"/>
+	<SubTexture name="missr0012" x="4807" y="2767" width="488" height="368" frameX="-3" frameY="-37" frameWidth="543" frameHeight="405"/>
+	<SubTexture name="missr0013" x="4314" y="2767" width="493" height="359" frameX="0" frameY="-41" frameWidth="543" frameHeight="405"/>
+	<SubTexture name="missu0000" x="5295" y="2767" width="532" height="403" pivotX="124.1" pivotY="148.05" frameX="-26" frameY="0" frameWidth="558" frameHeight="413"/>
+	<SubTexture name="missu0001" x="5827" y="2767" width="544" height="334" frameX="0" frameY="-75" frameWidth="558" frameHeight="413"/>
+	<SubTexture name="missu0002" x="6371" y="2767" width="534" height="342" frameX="-5" frameY="-71" frameWidth="558" frameHeight="413"/>
+	<SubTexture name="missu0003" x="5827" y="2767" width="544" height="334" frameX="0" frameY="-75" frameWidth="558" frameHeight="413"/>
+	<SubTexture name="missu0004" x="6371" y="2767" width="534" height="342" frameX="-5" frameY="-71" frameWidth="558" frameHeight="413"/>
+	<SubTexture name="missu0005" x="5827" y="2767" width="544" height="334" frameX="0" frameY="-75" frameWidth="558" frameHeight="413"/>
+	<SubTexture name="missu0006" x="6371" y="2767" width="534" height="342" frameX="-5" frameY="-71" frameWidth="558" frameHeight="413"/>
+	<SubTexture name="missu0007" x="5827" y="2767" width="544" height="334" frameX="0" frameY="-75" frameWidth="558" frameHeight="413"/>
+	<SubTexture name="missu0008" x="6371" y="2767" width="534" height="342" frameX="-5" frameY="-71" frameWidth="558" frameHeight="413"/>
+	<SubTexture name="missu0009" x="5827" y="2767" width="544" height="334" frameX="0" frameY="-75" frameWidth="558" frameHeight="413"/>
+	<SubTexture name="missu0010" x="6371" y="2767" width="534" height="342" frameX="-5" frameY="-71" frameWidth="558" frameHeight="413"/>
+	<SubTexture name="missu0011" x="5827" y="2767" width="544" height="334" frameX="0" frameY="-75" frameWidth="558" frameHeight="413"/>
+	<SubTexture name="missu0012" x="6371" y="2767" width="534" height="342" frameX="-5" frameY="-71" frameWidth="558" frameHeight="413"/>
+	<SubTexture name="missu0013" x="5827" y="2767" width="544" height="334" frameX="0" frameY="-75" frameWidth="558" frameHeight="413"/>
+</TextureAtlas>
